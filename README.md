@@ -1,5 +1,6 @@
 # Presentación
 
 ## Estudiante: Emanuel Agustin Llanos
-
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+![mi foto] (foto1.jpg)
+ soy Emanuel, tengo 20 años.
+y odio los yoyos...(?
